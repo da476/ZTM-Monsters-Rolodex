@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Luckiest Guy Font";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Luckiest Guy Font"), url("LuckiestGuy-Regular.ttf"), format("truetype");
+}
+
+h1 {
+  font-family: "Luckiest Guy Font";
+  font-weight: 200;
+  color: #0ccac4;
+}
